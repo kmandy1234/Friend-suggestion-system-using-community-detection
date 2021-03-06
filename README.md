@@ -7,5 +7,8 @@ The working flow of the model is:-
 2. Suggest users to other users who are not friends from the community to which both belongs
 ![Example](community_eg.PNG)
 
+
+
 Download he data of fb users from [here](http://konect.uni-koblenz.de/networks/ego-facebook)
+
 Read more about community detection and louvain algorithm from [here](https://arxiv.org/pdf/0803.0476.pdf)
