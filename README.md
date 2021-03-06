@@ -9,6 +9,6 @@ The working flow of the model is:-
 
 
 
-Download he data of fb users from [here](http://konect.uni-koblenz.de/networks/ego-facebook)
+Download the data of fb users from [here](http://konect.uni-koblenz.de/networks/ego-facebook)
 
 Read more about community detection and louvain algorithm from [here](https://arxiv.org/pdf/0803.0476.pdf)
