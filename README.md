@@ -1,6 +1,6 @@
 # Friend-suggestion-system-using-community-detection
 #### A simple way of exploiting social network structure of users to suggest friends.
-It is a human tendency of peoples to get asscoiated with other peoples based on similar interests, taste, or preferences. The detection of such associations on social media sites can be helpful in marketing industry.
+It is a human tendency of people to get asscoiated with other people based on similar interests, taste, or preferences. The detection of such associations on social media sites can be helpful in marketing industry.
 
 The working flow of the model is:-
 1. Represent friendship relation of users using graph. Find communities in the graph using Louvain algorithm. 
